@@ -1,8 +1,10 @@
-package com.im.gittest;
+package com.im.gittest.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.im.gittest.R;
 
 public class MainActivity extends AppCompatActivity {
 
